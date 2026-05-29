@@ -62,8 +62,8 @@ EmotiTune-AI/
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/emotitune-ai.git
-cd emotitune-ai
+git clone https://github.com/yoursudaycharan/EmotiTune-AI.git
+cd EmotiTune-AI
 ```
 
 ---
